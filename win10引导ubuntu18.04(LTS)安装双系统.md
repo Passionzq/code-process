@@ -1,4 +1,4 @@
-1.下载ubuntu18.04（LTS）
+##1.下载ubuntu18.04（LTS）  
   支持官网正版：https://www.ubuntu.com/download/desktop
   
 2.制作ubuntu启动盘
