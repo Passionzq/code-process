@@ -3,7 +3,7 @@
   
 ## 2.制作ubuntu启动盘  
   具体操作：  
-    详见官网指引：https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0    
+      详见官网指引：https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0    
     
 ## 3.分配磁盘空间  
    在现有计算机下划出一个专门给Ubuntu的磁盘分区，推荐Windows自带的磁盘管理工具。  
@@ -20,7 +20,7 @@
 ## 6.进入电脑的BIOS模式
 
 ## 7.安装过程
-  具体操作：
+  具体操作：  
     详见官网指引：https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop#0
     
 ## -注意：  
