@@ -3,6 +3,14 @@
 ## Introduce
 This project is to solve steiner tree problem by using Heuristic Algorithms. In the project, there are two solutions: *GA* and *RandomSlack*.
 
+## Data Fromat
+-	The first line is “33D32945 STP File, STP Format Version 1.0” which could be ignored
+-	Section comment, section graph and section terminals are following. 
+-	Section comment could be ignored. 
+-	Section graph describe the undirected graph. The first two lines in this section show the number of nodes and number of edges. And then there are several lines. “E a b c” (a, b, c are integers) means that there is an edge between vertex a and vertex b with distance c 
+-	Section terminals describe the set S. The first line shows the number of vertices in S. “T a” (a is an integer) means that a is in set S.
+
+
 ## Compiling and Running Environment
 - Ubuntu 18.04
 - g++ version 7.4.0
